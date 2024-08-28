@@ -1,7 +1,7 @@
 # js-ripper
 JS ripper is a advanced python program to crawl all the js files, URLs  in any given subdomains, domains and URLs
 
-## Install Required Libraries / check dependencies
+## Install Required Libraries / Check dependencies
 
 ```
 requests
@@ -9,6 +9,11 @@ urljoin
 from bs4 import BeautifulSoup
 argparse
 ```
+## Install requirements
+```
+pip install -r requirements.txt
+```
+
 ## Usage 
 ```
 - clone the repository
